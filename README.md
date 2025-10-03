@@ -1,7 +1,6 @@
 ## 👋 Hey, I'm Arzoo
 
-React.js Developer with **2.8 years of experience** building scalable and user-friendly UIs.  
-I enjoy crafting interactive applications and experimenting with performance optimizations.
+React.js developer with 2.8 years of building UIs that (mostly) do what users expect. Always curious, sometimes over-engineering, but never bored of frontend.
 
 ---
 
